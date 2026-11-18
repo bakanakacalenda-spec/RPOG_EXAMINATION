@@ -12,7 +12,7 @@ import java.io.IOException;
         public ProductGUI() {
 
 
-            setTitle("Product App");
+            setTitle("Product GUI");
             setSize(400, 300);
             setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
             setLayout(null);
